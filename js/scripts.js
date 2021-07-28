@@ -6,3 +6,5 @@ var cognome = prompt('Qual è il tuo cognome?');
 var colorePreferito = prompt('Qual è il tuo colore preferito?');
 // Scrivi sulla pagine nomecognomecolorepreferito40
 document.getElementById('risultato').innerHTML = nome + cognome + colorePreferito + 40;
+
+// document.writeIn('Hello World!')
